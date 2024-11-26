@@ -17,7 +17,7 @@
 - **Next.js, React.js, Node.js, Object-Oriented Programming**
 
 ### 💬 Ask Me About
-- **PHP, Java, MySQL, Bootstrap, JavaScript, TailwindCSS**
+- **PHP, Java, MySQL, Bootstrap, JavaScript, TailwindCSS, ReactJs, NextJs**
 
 ### 📫 Reach Me At
 - **Email:** [donatoshenukarandeny@gmail.com](mailto:donatoshenukarandeny@gmail.com)
